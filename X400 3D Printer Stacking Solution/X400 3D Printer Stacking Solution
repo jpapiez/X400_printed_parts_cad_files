@@ -1,1 +1,5 @@
-
+Recommended filament: PLA, PETG, ABS, ASA;
+Recommended Slicer Settings:   (1) wall loops: 5 or 6;
+                               (2) sparse infill pattren: grid;
+                               (3) sparse infill density: 30% - 50%;
+  
