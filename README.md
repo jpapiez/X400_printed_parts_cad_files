@@ -1,2 +1,2 @@
-# X400_structural_parts_cad_files
-X400 structural parts cad files
+# This is the open-source hardware link for the Eryone Thinker X400.
+
